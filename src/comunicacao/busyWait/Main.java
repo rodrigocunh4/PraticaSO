@@ -2,10 +2,10 @@
  * @author Bruno Marques e Rodrigo Cunha
  * 
  * Sistemas Operacionais - 2016.1
- * Mini-simulador de processos usando busy wait.
+ * Mini-simulador de processos usando alternancia escrita.
  */
 
-package busywait;
+package comunicacao.busyWait;
 
 public class Main {
 
